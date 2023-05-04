@@ -26,6 +26,7 @@ typedef struct {
 // Information required to connect to Xively account
 // change these settings to match your own setup
 char website[] PROGMEM = "api.xively.com";
+// char website[] PROGMEM = "api.datacake.co/integrations/api/"; // Возможно сработает этот URL
 #define FEED    "399733688"   // Put Your Feed ID here
 #define APIKEY  "Ilxcnw2fQK8xyUX4S1VXQAbykGjOKPWY7xStWP0ghbSAMIt3" // Put Your APIKEY here
  
